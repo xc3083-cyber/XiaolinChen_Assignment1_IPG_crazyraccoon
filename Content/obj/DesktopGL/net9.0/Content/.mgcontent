@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/background.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/door.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/File.spritefont</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/player_01.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/player_02.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/player_03.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/raccoon_01.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/raccoon_02.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/raccoon_03.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/raccoon_04.png</File>
+    <File>C:/Users/陈晓琳/Desktop/IPG_Assignment/IPG_Assignment2/Content/raindrop.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

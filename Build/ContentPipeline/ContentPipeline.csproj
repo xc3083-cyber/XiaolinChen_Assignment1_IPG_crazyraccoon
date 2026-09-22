@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>IPG.ContentPipeline</AssemblyName>
+    <Nullable>enable</Nullable>
+    <NuGetPackageRoot Condition="'$(NuGetPackageRoot)' == ''">$(UserProfile)/.nuget/packages/</NuGetPackageRoot>
+    <MonoGameToolDirectory>$(NuGetPackageRoot)dotnet-mgcb/3.8.5.1/tools/net8.0/any/</MonoGameToolDirectory>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework.Content.Pipeline">
+      <HintPath>$(MonoGameToolDirectory)MonoGame.Framework.Content.Pipeline.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameToolDirectory)MonoGame.Framework.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+  <Target Name="StageContentImporter" AfterTargets="Build">
+    <Copy SourceFiles="$(TargetPath)"
+          DestinationFolder="$(MSBuildProjectDirectory)/../../Content/obj/ContentPipeline"
+          SkipUnchangedFiles="true" />
+  </Target>
+</Project>

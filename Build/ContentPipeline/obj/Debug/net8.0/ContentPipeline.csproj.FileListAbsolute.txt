@@ -1,0 +1,12 @@
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\bin\Debug\net8.0\IPG.ContentPipeline.deps.json
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\bin\Debug\net8.0\IPG.ContentPipeline.dll
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\bin\Debug\net8.0\IPG.ContentPipeline.pdb
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\ContentPipeline.csproj.AssemblyReference.cache
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\ContentPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\ContentPipeline.AssemblyInfoInputs.cache
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\ContentPipeline.AssemblyInfo.cs
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\ContentPipeline.csproj.CoreCompileInputs.cache
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\IPG.ContentPipeline.dll
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\refint\IPG.ContentPipeline.dll
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\IPG.ContentPipeline.pdb
+C:\Users\陈晓琳\Desktop\IPG_Assignment\IPG_Assignment2\Build\ContentPipeline\obj\Debug\net8.0\ref\IPG.ContentPipeline.dll
